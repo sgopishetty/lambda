@@ -40,8 +40,8 @@ TTL="300"
 ZONE="Z2S8NDZVRP07VL"
 # Export access key ID and secret for cli53 and aws cli
 
-export AWS_ACCESS_KEY_ID=""
-export AWS_SECRET_ACCESS_KEY=""
+export AWS_ACCESS_KEY_ID="xxxxxxxxxxxxx"
+export AWS_SECRET_ACCESS_KEY="xxxxxxxxxxxx"
 export AWS_DEFAULT_REGION="us-west-2"
 export AWS_DEFAULT_OUTPUT="text"
 
